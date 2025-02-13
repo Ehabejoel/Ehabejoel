@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Joel Metuge Ehabe!
+# 👋 Hi, I'm Joel Ehabe!
 
 💻 **Software Engineering Student** | 🚀 **Aspiring Tech Entrepreneur**  
 
