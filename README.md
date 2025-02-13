@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Joel Metuge Ehabe!
 
-<!--
-**Ehabejoel/Ehabejoel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Software Engineering Student** | 🚀 **Aspiring Tech Entrepreneur**  
 
-Here are some ideas to get you started:
+I'm a **third-year Software Engineering student** at the African Institute of Computer Sciences in Yaoundé, Cameroon.  
+I specialize in **Frontend Development** with **React.js, TypeScript, and Tailwind CSS**, but I'm also exploring **backend development** with **Node.js (Express)** and **Laravel**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack:  
+**Frontend:** React.js, React Native, Expo, Flutter  
+**Backend:** Node.js (Express), Laravel  
+**Database:** MongoDB,SQL Server, Firebase  
+
+
