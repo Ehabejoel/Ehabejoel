@@ -1,6 +1,8 @@
-# 👋 Hi, I'm Joel Ehabe!
+👋 Hi, I'm Joel Ehabe!
+💻 Full Stack Developer | 🚀 Aspiring Tech Entrepreneur
+I build user-focused, scalable applications with expertise in React.js ⚛️, React Native (Expo) 📱, TypeScript 📜, JavaScript 🌐, Tailwind CSS 🎨, Node.js (Express) 🟢, Next.js ⚡, and Firebase 🔥. Passionate about creating end-to-end solutions and exploring new tech!
+🛠️ Tech Stack
 
-💻 **Software Engineering Student** | 🚀 **Aspiring Tech Entrepreneur**  
-
-I specialize in **Frontend Development** with **React.js, React Native (Expo) TypeScript, and Tailwind CSS**, but I'm also exploring **backend development** with **Node.js (Express)** and **Laravel**.  
-
+⚛️ React.js | 📱 React Native (Expo) | 📜 TypeScript | 🌐 JavaScript | 🎨 Tailwind CSS
+🟢 Node.js (Express) | ⚡ Next.js | 🔥 Firebase | 🍃 MongoDB
+🐙 Git | 🐱 GitHub | 💻 VS Code | 📬 Postman
